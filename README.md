@@ -1,0 +1,2 @@
+# breakapp-policies
+Privacy policy
