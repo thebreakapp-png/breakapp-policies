@@ -1,61 +1,142 @@
-📄 PRIVACY POLICY — BREAK
-Last updated: 27/11/2025
-This Privacy Policy explains how BREAK (“the App”) handles user information.
-BREAK is owned and operated by Juan Pablo Cirett (“we”, “us”, or “our”).
-We are committed to protecting your privacy.
-This document describes what information we collect, how we use it, and your rights.
-1. Information We Collect
-BREAK does not collect, store, process, or transmit any personal data.
-The App does not use:
-Analytics
-Tracking technologies
-Advertising tools
-Cookies
-Crash reporting
-User accounts or logins
-Cloud storage
-Device identifiers
-Location services
-All features operate locally on your device only.
-2. Local Data Stored on Your Device
-BREAK stores only non-personal preferences—for example:
-Whether you completed onboarding
-Whether to display timer text
-Whether to display phrases
-Subscription status
-Session settings
-This information is stored using Apple’s AppStorage and never leaves your device.
-We cannot access, read, or use this information.
-3. Subscriptions & Purchases
-BREAK offers optional paid features through Apple’s in-app purchase system.
-Apple processes all payments. We do not receive your:
-Name
-Email
-Payment details
-Location
-Billing information
-All billing and subscription data is handled entirely by Apple.
-4. Guided Access & Device Locking
-BREAK provides instructions for using iOS Guided Access, an Apple feature that restricts device use.
-The App does not access your passcode.
-The App does not control Guided Access.
-All security and restrictions are handled by iOS.
-We never collect, store, or process any Guided Access settings.
-5. Children’s Privacy
-The App does not collect any information from users, including children.
-However, because the App may temporarily block device access, adult supervision is recommended for minors.
-6. International Users
-Although the developer is based in Mexico, this Privacy Policy complies with global standards, including:
-GDPR (EU)
-California Consumer Privacy Act (CCPA)
-Mexico’s Federal Law on Protection of Personal Data Held by Private Parties (LFPDPPP)
-Since BREAK does not collect personal data, these laws are fully satisfied.
-7. Changes to This Privacy Policy
-We may update this policy periodically.
-The latest version will always be available at the published link.
-Your continued use of BREAK after changes are posted constitutes acceptance of the revised policy.
-8. Contact Us
-If you have any questions about privacy, contact:
-Email: thebreakappservice@gmail.com
-Developer: Juan Pablo Cirett
-Country: Mexico
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Privacy Policy - BREAK</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 16px 40px;
+      line-height: 1.6;
+      color: #111;
+      background-color: #fafafa;
+    }
+    h1, h2, h3 {
+      font-weight: 600;
+      color: #000;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 8px;
+    }
+    h2 {
+      font-size: 20px;
+      margin-top: 24px;
+    }
+    p {
+      margin: 8px 0;
+    }
+    small {
+      color: #555;
+    }
+    a {
+      color: #007AFF;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #ddd;
+      margin: 24px 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <small>Last updated: [Insert Date]</small>
+
+  <hr />
+
+  <p>This Privacy Policy explains how <strong>BREAK</strong> (“the App”) handles user information. BREAK is owned and operated by <strong>Juan Pablo Cirett</strong> (“we”, “us”, or “our”).</p>
+
+  <p>We are committed to protecting your privacy. This document describes what information we collect, how we use it, and your rights.</p>
+
+  <h2>1. Information We Collect</h2>
+  <p>BREAK does <strong>not</strong> collect, store, process, or transmit any personal data.</p>
+
+  <p>The App does <strong>not</strong> use:</p>
+  <ul>
+    <li>Analytics</li>
+    <li>Tracking technologies</li>
+    <li>Advertising tools</li>
+    <li>Cookies</li>
+    <li>Crash reporting</li>
+    <li>User accounts or logins</li>
+    <li>Cloud storage</li>
+    <li>Device identifiers</li>
+    <li>Location services</li>
+  </ul>
+
+  <p>All features operate <strong>locally on your device only</strong>.</p>
+
+  <h2>2. Local Data Stored on Your Device</h2>
+  <p>BREAK stores only <strong>non-personal preferences</strong> on your device, for example:</p>
+  <ul>
+    <li>Whether you completed onboarding</li>
+    <li>Whether to display timer text</li>
+    <li>Whether to display phrases</li>
+    <li>Subscription status</li>
+    <li>Session settings</li>
+  </ul>
+
+  <p>This information is stored using Apple’s on-device storage (such as <code>AppStorage</code>) and <strong>never leaves your device</strong>. We cannot access, read, or use this information.</p>
+
+  <h2>3. Subscriptions &amp; Purchases</h2>
+  <p>BREAK offers optional paid features through <strong>Apple’s in-app purchase system</strong>.</p>
+
+  <p>Apple processes all payments. We do <strong>not</strong> receive your:</p>
+  <ul>
+    <li>Name</li>
+    <li>Email</li>
+    <li>Payment details</li>
+    <li>Location</li>
+    <li>Billing information</li>
+  </ul>
+
+  <p>All billing and subscription data is handled entirely by Apple.</p>
+
+  <h2>4. Guided Access &amp; Device Locking</h2>
+  <p>BREAK provides instructions for using <strong>iOS Guided Access</strong>, an Apple feature that restricts device use.</p>
+
+  <ul>
+    <li>The App does <strong>not</strong> access your passcode.</li>
+    <li>The App does <strong>not</strong> control Guided Access.</li>
+    <li>All security and restrictions are handled by iOS.</li>
+  </ul>
+
+  <p>We never collect, store, or process any Guided Access settings.</p>
+
+  <h2>5. Children’s Privacy</h2>
+  <p>The App does not collect any information from users, including children. However, because the App may temporarily block device access, <strong>adult supervision is recommended</strong> for minors.</p>
+
+  <h2>6. International Users</h2>
+  <p>Although the developer is based in Mexico, this Privacy Policy is intended to comply with global standards, including:</p>
+  <ul>
+    <li>General Data Protection Regulation (GDPR)</li>
+    <li>California Consumer Privacy Act (CCPA)</li>
+    <li>Mexico’s Federal Law on Protection of Personal Data Held by Private Parties (LFPDPPP)</li>
+  </ul>
+
+  <p>Since BREAK <strong>does not collect personal data</strong>, these laws are fully satisfied.</p>
+
+  <h2>7. Changes to This Privacy Policy</h2>
+  <p>We may update this Privacy Policy from time to time. The latest version will always be available at this page or at the link specified in the App Store listing.</p>
+
+  <p>Your continued use of BREAK after changes are posted constitutes acceptance of the revised policy.</p>
+
+  <h2>8. Contact Us</h2>
+  <p>If you have any questions about this Privacy Policy, contact us at:</p>
+
+  <p>
+    <strong>Email:</strong> <a href="mailto:thebreakappservice@gmail.com">thebreakappservice@gmail.com</a><br />
+    <strong>Developer:</strong> Juan Pablo Cirett<br />
+    <strong>Country:</strong> Mexico
+  </p>
+
+</body>
+</html>
